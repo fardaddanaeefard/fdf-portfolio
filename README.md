@@ -3,7 +3,7 @@
 ## Education
   - Human Genetics M.Sc.
   - Medical Laboratory Sciences B.Sc.
-  - 
+
 ## Work Experience
   - Bioinformatician, pipeline developer, and medical geneticist @ [Genomist](https://genomist.ir)
     * Developed clinical-grade pipelines for analyzing raw sequencing data in context of germline and somatic variant discovery
