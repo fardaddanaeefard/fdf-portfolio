@@ -58,10 +58,9 @@ Please view my [Linkedin](https://www.linkedin.com/in/fardad-danaee-fard-8b68581
   8. Omics integration
 
 ## References
-
-  A. Afagh Alavi, PhD
-  B. Michael Hans Willi Lappe, PhD
-  C. Mahta Mazaheri, MD-PhD
-  D. Zohreh Fattahi, PhD
-  E. Iman Samiei-Mosleh, PhD
-  F. Naeem Ehtesham, PhD
+  + Afagh Alavi, PhD
+  + Michael Hans Willi Lappe, PhD
+  + Mahta Mazaheri, MD-PhD
+  + Zohreh Fattahi, PhD
+  + Iman Samiei-Mosleh, PhD
+  + Naeem Ehtesham, PhD
