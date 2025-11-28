@@ -48,19 +48,20 @@
 Please view my [Linkedin](https://www.linkedin.com/in/fardad-danaee-fard-8b685814a/) for full details of this section.
 
 ## Other Skills
-1. Pipeline development 
-2. Software development
-3. Data analysis
-4. Statistical evaluation and testing
-5. Data visualization
-6. Machine learning
-7. AI optimization
-8. Omics integration
+  1. Pipeline development 
+  2. Software development
+  3. Data analysis
+  4. Statistical evaluation and testing
+  5. Data visualization
+  6. Machine learning
+  7. AI optimization
+  8. Omics integration
 
 ## References
-A. Afagh Alavi, PhD
-B. Michael Hans Willi Lappe, PhD
-C. Mahta Mazaheri, MD-PhD
-D. Zohreh Fattahi, PhD
-E. Iman Samiei-Mosleh, PhD
-F. Naeem Ehtesham, PhD
+
+  A. Afagh Alavi, PhD
+  B. Michael Hans Willi Lappe, PhD
+  C. Mahta Mazaheri, MD-PhD
+  D. Zohreh Fattahi, PhD
+  E. Iman Samiei-Mosleh, PhD
+  F. Naeem Ehtesham, PhD
